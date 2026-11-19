@@ -93,7 +93,7 @@ To add a new federation, add an entry to `const FEDERATION_INFO = {...}` with a 
 
 ## Geography
 
-The map uses inline TopoJSON derived from ONS boundary data:
+The map uses inline TopoJSON derived from ONS boundary data available (here)[https://martinjc.github.io/UK-GeoJSON/]:
 
 | File origin | Coverage |
 |-------------|----------|
@@ -113,7 +113,3 @@ The TopoJSON is baked into `index.html` at build time — no external data fetch
 - All assets self-contained — works offline once loaded
 
 ---
-
-## Licence
-
-Add your licence here.

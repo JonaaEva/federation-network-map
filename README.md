@@ -5,7 +5,7 @@ An interactive map of UK Trusted Research Environments (TREs) and their federati
 ## Live site
 
 Hosted via GitHub Pages at:
-`https://<your-username>.github.io/<your-repo-name>/`
+`https://jonaaeva.github.io/federation-network-map/`
 
 ---
 
